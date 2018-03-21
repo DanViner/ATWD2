@@ -86,7 +86,4 @@ this graph to offer a quick a concise result for the user to observe.
 ## Refactoring:
 
 One area in which I would improve the project upon refactoring would be in cleaning up the data alot more, as there is still lots of
-bad data within the xml files. Another area in which I would improve the system would be to add extend the graphs to show the colour
-encoding of the NO2 reading on the charts against the DEFRA index scale to help readability. Another aspect I would like to extend
-would be to offer the ability to show graphs for all locations on the same page, or even add extra lines onto a single graph to
-show all locations. However this may also have the negative effect of cluttering the graph that is already quite noisy.
+bad data within the xml files. Another key elemenet I would implement would be adding only allowing users to select dates for which we have relevant data for, e.g. Brislington only has data for 2016 & 2017, so I could restrict the choice to to these years, or much easier, I could output an appropriate error message to the user. I would also improve the system would be to add extend the graphs to show the colour encoding of the NO2 reading on the charts against the DEFRA index scale to help readability. Another aspect I would like to extend would be to offer the ability to show graphs for all locations on the same page, or even add extra lines onto a single graph to show all locations. However this may also have the negative effect of cluttering the graph that is already quite noisy.
