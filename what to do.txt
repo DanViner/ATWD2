@@ -1,3 +1,0 @@
-- Host the thing online. cems come in thursday - ?
-- edit files - a bit 
-- edit markdown abit - Add "how i would refactor and improve it"
