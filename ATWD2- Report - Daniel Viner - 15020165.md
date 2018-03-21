@@ -24,7 +24,9 @@ Avanced Topics in Web Development 2 - Report
 ---  
 5. HTML files for creating the graphs:
   * [scatterGraph.html](https://github.com/DanViner/ATWD2/blob/master/graphs/scatterGraph.html)
+  * [Viewable scatterGraph.html](http://www.cems.uwe.ac.uk/~dj2-viner/ATWD2/graphs/scatterGraph.html)
   * [lineGraph.html](https://github.com/DanViner/ATWD2/blob/master/graphs/lineGraph.html)
+  * [Viewable lineGraph.html](http://www.cems.uwe.ac.uk/~dj2-viner/ATWD2/graphs/lineGraph.html)
 6. Script for providing a years worth of data to 'scatterGraph.html':
   * [DataOverYearJSON.php](https://github.com/DanViner/ATWD2/blob/master/php/DataOverYearJSON.php)
 
