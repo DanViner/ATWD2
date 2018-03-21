@@ -83,7 +83,8 @@ These were made for the same reasons as the scatter graph to improve usability a
 this graph to offer a quick a concise result for the user to observe.
 
 ---
-**Refactoring**
+## Refactoring:
+
 One area in which I would improve the project upon refactoring would be in cleaning up the data alot more, as there is still lots of
 bad data within the xml files. Another area in which i would improve the system would be to add extend the graphs to show the colour
 encoding of the NO2 reading on the charts against the DEFRA index scale to help readability. Another aspect i would like to extend
